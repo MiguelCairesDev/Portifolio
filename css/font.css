@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech&display=swap');
+
+.title{
+
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.text{
+
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.white{
+
+    color: white;
+
+}
